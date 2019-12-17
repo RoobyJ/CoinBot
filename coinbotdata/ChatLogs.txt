@@ -1,0 +1,197 @@
+2019-12-15 18:22:37.790539: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:23:14.892944: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:23:54.159958: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:24:59.851881: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:26:14.833038: logi: Dyno#0000: Dyno: 
+2019-12-15 18:26:18.137684: logi: Dyno#0000: Dyno: 
+2019-12-15 18:26:20.452016: logi: Dyno#0000: Dyno: 
+2019-12-15 18:26:22.427806: logi: Dyno#0000: Dyno: 
+2019-12-15 18:30:25.911684: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:31:13.427142: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:31:35.169557: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:32:57.243400: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:32:57.537668: lvl-mee6: MEE6#4876: MEE6: GG <@!353992014892761120>, you just advanced to level 1!
+2019-12-15 18:33:40.454631: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:34:15.790564: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:34:36.666541: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:35:29.021348: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:38:17.020841: logi: Dyno#0000: Dyno: 
+2019-12-15 18:38:20.918384: logi: Dyno#0000: Dyno: 
+2019-12-15 18:38:22.226574: logi: Dyno#0000: Dyno: 
+2019-12-15 18:38:28.736003: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:39:02.435650: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:40:18.603445: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:41:11.895691: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:41:59.038311: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:44:35.757314: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:45:10.337248: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:47:11.296000: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:54:14.545843: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:54:14.908172: lvl-mee6: MEE6#4876: MEE6: GG <@!353992014892761120>, you just advanced to level 2!
+2019-12-15 18:56:02.597385: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 18:57:25.838851: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 19:03:19.941842: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 19:06:45.440149: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 19:09:30.650377: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 19:09:51.020023: grzesznicy: MEE6#4876: MEE6: Witam ciê zb³¹kana duszo <@655748857627410432>, w PIEKLE
+2019-12-15 19:32:04.641926: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 19:32:12.908178: testy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: &RefreshUserList
+2019-12-15 19:33:46.893707: szatañskie-memy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: https://cdn.discordapp.com/attachments/442250009241452546/655809450958913557/przegryw_meme.png
+2019-12-15 19:33:49.268866: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 19:35:02.745186: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 19:39:17.286171: komnata-rozmów: Kuba#9944: Kuba: 
+2019-12-15 19:40:13.784707: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 19:40:14.315190: lvl-mee6: MEE6#4876: MEE6: GG <@!353992014892761120>, you just advanced to level 3!
+2019-12-15 19:51:26.316383: komnata-rozmów: Kuba#9944: Kuba: 
+2019-12-15 20:01:53.052914: witam: MEE6#4876: MEE6: Hey <@617104417929429046>, witam na serwerze randkowanie :smirk: ¿yczê mi³ej zabawy.
+2019-12-15 20:02:39.072458: general: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: witam <@!617104417929429046>
+2019-12-15 20:03:01.989596: general: mistletoe_chan#5898: mistletoe_chan: Dobry wieczór
+2019-12-15 20:07:09.106345: komnata-rozmów: aku#1133: aku: Siema
+2019-12-15 20:08:43.271772: general: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: za parê dni serwer wystartuje na dobre
+2019-12-15 20:20:52.893332: komnata-rozmów: Sp4rt4#4004: Sp4rt4: siema
+2019-12-15 20:36:02.824043: komnata-rozmów: fraanczi#1342: fraanczi: Halo jest tu ktoœ dobru z matmy nie wiem co zrobiæ
+2019-12-15 20:40:44.107093: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 20:40:46.623458: komnata-rozmów: Kuba#9944: Kuba: co <@!620999054637400064>
+2019-12-15 20:40:47.752485: komnata-rozmów: Kuba#9944: Kuba: potrzebujesz
+2019-12-15 20:41:12.560002: komnata-rozmów: fraanczi#1342: fraanczi: Mno¿enie wyra¿eñ wymiernych
+2019-12-15 20:41:21.524622: komnata-rozmów: fraanczi#1342: fraanczi: Ja Kurw nie wiem ci mam skrocic
+2019-12-15 20:41:25.223844: komnata-rozmów: Kuba#9944: Kuba: poka
+2019-12-15 20:41:26.020298: komnata-rozmów: fraanczi#1342: fraanczi: A co wymnozhc xD
+2019-12-15 20:41:29.525759: szatañskie-memy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: 
+2019-12-15 20:41:32.525589: komnata-rozmów: fraanczi#1342: fraanczi: 
+2019-12-15 20:41:39.053736: usuniete-wiadomosci: Dyno#0000: Dyno: 
+2019-12-15 21:18:29.390128: testy: RobyJ#9879: RobyJ: a
+2019-12-15 21:24:01.740384: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:27:47.657462: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:31:10.342102: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:34:01.399151: role: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: -rolemenu create lista województw
+2019-12-15 21:34:01.586321: role: YAGPDB.xyz#8760: YAGPDB.xyz: Role menu
+Setting up...
+2019-12-15 21:34:01.689408: role: YAGPDB.xyz#8760: YAGPDB.xyz: **Rolemenu setup:** [0/16]
+React with the emoji for the role command: `zachodniopomorskie`
+Note: The bot has to be on the server where the emoji is from, otherwise it won't be able to use it
+
+*This message will be updated with new info throughout the setup.*
+2019-12-15 21:34:36.653705: komnata-rozmów: Wybrañczyni Bary³ka#1801: Wybrañczyni Bary³ka: Siema
+2019-12-15 21:35:31.096258: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:35:59.407541: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:36:02.875737: komnata-rozmów: Sp4rt4#4004: Sp4rt4: siemano natlaka
+2019-12-15 21:36:07.530019: komnata-rozmów: Sp4rt4#4004: Sp4rt4: co tam u ciebie
+2019-12-15 21:36:36.934911: komnata-rozmów: Sp4rt4#4004: Sp4rt4: <@!512350545898373120>
+2019-12-15 21:38:05.498915: logi: Dyno#0000: Dyno: 
+2019-12-15 21:39:26.254891: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:41:20.975469: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:42:53.225757: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:43:14.254568: bump: Sp4rt4#4004: Sp4rt4: !d bump
+2019-12-15 21:43:14.380680: bump: DISBOARD#2760: DISBOARD: 
+2019-12-15 21:43:15.062300: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:44:19.653434: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:44:33.195594: witam: MEE6#4876: MEE6: Hey <@227470296456626176>, witam na serwerze randkowanie :smirk: ¿yczê mi³ej zabawy.
+2019-12-15 21:44:54.644180: witam: MEE6#4876: MEE6: Hey <@375752123448557568>, witam na serwerze randkowanie :smirk: ¿yczê mi³ej zabawy.
+2019-12-15 21:46:05.420621: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:48:03.412199: testy: RobyJ#9879: RobyJ: &RefreshUserList
+2019-12-15 21:49:20.955487: demony-boty: Kanguro mój mentoro#1337: Kanguro mój mentoro: !p beggin
+2019-12-15 21:50:03.015458: demony-boty: Kanguro mój mentoro#1337: Kanguro mój mentoro: !p power over me
+2019-12-15 21:50:03.751127: demony-boty: Rythm#3722: Rythm: 
+2019-12-15 21:50:07.010089: demony-boty: Kanguro mój mentoro#1337: Kanguro mój mentoro: !p we down we go
+2019-12-15 21:50:07.927924: demony-boty: Rythm#3722: Rythm: 
+2019-12-15 21:58:40.705034: testy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: 
+2019-12-15 21:58:45.249826: szatañskie-memy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: 
+2019-12-15 22:05:31.536354: komnata-rozmów: Kurcze#5573: Kurcze: ej
+2019-12-15 22:05:36.081564: komnata-rozmów: Kurcze#5573: Kurcze: dzie jest Tyncz
+2019-12-15 22:08:24.037769: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: nw
+2019-12-15 22:08:33.282737: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: poszed³ sobie
+2019-12-15 22:09:16.985848: testy: RobyJ#9879: RobyJ: pls help
+2019-12-15 22:09:17.151998: testy: Dank Memer#5192: Dank Memer: 
+2019-12-15 22:09:23.621884: komnata-rozmów: Kurcze#5573: Kurcze: <:GWnonexUmaruCry:402867193475366933>
+2019-12-15 22:09:41.723447: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: <:majtkityncza:642871752577384480>
+2019-12-15 22:10:38.098623: komnata-rozmów: Kurcze#5573: Kurcze: :c
+2019-12-15 22:11:07.786430: testy: RobyJ#9879: RobyJ: &helpc
+2019-12-15 22:11:08.006631: lvl-mee6: MEE6#4876: MEE6: GG <@!353992014892761120>, you just advanced to level 4!
+2019-12-15 22:12:13.535857: testy: RobyJ#9879: RobyJ: &helpc
+2019-12-15 22:12:13.761061: testy: CoinBot#8602: CoinBot: &coins
+    &pricelist
+    &sendcoins
+    &subscription
+2019-12-15 22:13:09.398802: testy: RobyJ#9879: RobyJ: &helpc
+2019-12-15 22:13:09.698074: testy: CoinBot#8602: CoinBot: &coins
+&pricelist
+&sendcoins
+&subscription
+2019-12-15 22:19:33.975545: komnata-rozmów: Kanguro mój mentoro#1337: Kanguro mój mentoro: <:suham:652713283228270593> <:__:544170538931716096> <:USER_SCOPED_TEMP_DATA_orcaimage1:628886797417447435> <:roxie:604259477201616896> <:wojak1:598301713514102785> <:boj:537730410591813633> <:like:273126001548984320> <:asperger:586294357582282761> <a:baka:604051708691087448> <a:pifpaf:462394331408498688> <:boj:537730410591813633> <:asperger:586294357582282761> <a:otak:625723889258856458> <a:pozar2:487415836265545729> <a:awaugery:462394328438931476>
+2019-12-15 22:20:02.639949: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: <:zabkes:643941236037779474>
+2019-12-15 22:20:06.822710: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: <:odwrconykrzy:627910875004796937>
+2019-12-15 22:21:55.660907: role: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: -rolemenu create wzrost
+2019-12-15 22:21:55.764001: role: YAGPDB.xyz#8760: YAGPDB.xyz: Role menu
+Setting up...
+2019-12-15 22:21:55.908132: role: YAGPDB.xyz#8760: YAGPDB.xyz: **Rolemenu setup:** [0/2]
+React with the emoji for the role command: `+180`
+Note: The bot has to be on the server where the emoji is from, otherwise it won't be able to use it
+
+*This message will be updated with new info throughout the setup.*
+2019-12-15 22:22:12.632854: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:22:48.308852: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:22:55.393852: logi: Dyno#0000: Dyno: 
+2019-12-15 22:23:01.719730: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: <:ziemniaki:626447666431131689>
+2019-12-15 22:23:36.558220: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:25:30.135292: szatañskie-memy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: 
+2019-12-15 22:30:01.044685: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:31:47.129537: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:31:47.347375: testy: CoinBot#8602: CoinBot: [(0,)]
+2019-12-15 22:33:41.009573: szatañskie-memy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: 
+2019-12-15 22:33:42.097562: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:34:10.697589: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:34:47.878718: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:34:48.092912: testy: CoinBot#8602: CoinBot: you have: ()coins
+2019-12-15 22:35:22.515991: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:35:22.776227: testy: CoinBot#8602: CoinBot: you have: (0,)coins
+2019-12-15 22:36:09.833588: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:36:10.055790: testy: CoinBot#8602: CoinBot: you have: ()coins
+2019-12-15 22:36:28.381901: demony-boty: Honk Honk#0270: Honk Honk: -p gimpson bombsite a
+2019-12-15 22:36:29.484903: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:36:41.580208: demony-boty: Honk Honk#0270: Honk Honk: -p niepowstrzymany
+2019-12-15 22:36:42.415728: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:37:07.597824: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:37:44.992509: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:37:47.530835: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: <:cavebob:631596568482414612>
+2019-12-15 22:38:09.228502: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:38:59.946406: testy: RobyJ#9879: RobyJ: &coins
+2019-12-15 22:39:00.358781: testy: CoinBot#8602: CoinBot: you have: 0coins
+2019-12-15 22:39:39.546089: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:42:07.374888: testy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: mini vip
+2019-12-15 22:42:16.836453: testy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: vip
+2019-12-15 22:42:20.754605: testy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: super vip
+2019-12-15 22:42:23.981515: testy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: mega vip
+2019-12-15 22:42:28.026291: testy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: kurwa vip
+2019-12-15 22:42:29.385527: testy: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: itp
+2019-12-15 22:47:48.265132: witam: MEE6#4876: MEE6: Hey <@655617735874576455>, witam na serwerze randkowanie :smirk: ¿yczê mi³ej zabawy.
+2019-12-15 22:48:26.030843: komnata-rozmów: Kurcze#5573: Kurcze: <:GWpinkuSadOtato:393081466176667648>
+2019-12-15 22:49:09.701260: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: <@!351132221282844673> <:majtkityncza:642871752577384480>
+2019-12-15 22:49:18.419966: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: bêdzie dobrze
+2019-12-15 22:50:09.857437: demony-boty: Honk Honk#0270: Honk Honk: -p ona czuje we mnie piniadz
+2019-12-15 22:50:10.764614: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:50:32.155737: demony-boty: Honk Honk#0270: Honk Honk: -p mama ostrzega³a
+2019-12-15 22:50:32.900414: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:50:51.297528: demony-boty: Honk Honk#0270: Honk Honk: -p ona by tak chcia³a
+2019-12-15 22:50:52.008173: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:52:00.144627: demony-boty: Honk Honk#0270: Honk Honk: -p zbuntowany anio³
+2019-12-15 22:52:01.040441: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:53:12.486551: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:53:49.317666: komnata-rozmów: Kurcze#5573: Kurcze: sk¹d wiesz <:GWsetmyxPeepoCry:405382963057000458>
+2019-12-15 22:54:08.126298: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: Poniewa¿ jestem bogiem
+2019-12-15 22:54:08.865971: lvl: MEE6#4876: MEE6: habemus papam  <@!394915512708104202> , awansowa³eœ w hierarchii koœcio³a nocy  27
+2019-12-15 22:56:22.089729: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:56:25.747221: komnata-rozmów: Kurcze#5573: Kurcze: poka
+2019-12-15 22:57:00.725947: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: O pa
+2019-12-15 22:57:27.692061: demony-boty: Honk Honk#0270: Honk Honk: -p https://www.youtube.com/watch?v=IjJ_H5s_jok&list=PLYn4pE9Y8a1nOf33r-MU9zFOcVnx7l3Y9&has_verified=1
+2019-12-15 22:57:28.607230: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 22:59:13.488775: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 23:00:35.143691: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: Ju¿
+2019-12-15 23:02:15.283618: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 23:05:52.889637: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 23:07:16.957412: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 23:10:42.144047: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 23:14:00.936895: demony-boty: Groovy#7254: Groovy: 
+2019-12-15 23:16:43.150758: komnata-rozmów: fraanczi#1342: fraanczi: Uœwiadom to sobie sobie
+2019-12-15 23:17:22.674933: komnata-rozmów: poka¿ mi swoje towary#4918: poka¿ mi swoje towary: S³yszê s³owa od których w³os je¿y siê nna g³ównie
+2019-12-15 23:17:30.711173: komnata-rozmów: fraanczi#1342: fraanczi: <:tync:627484531426983956> <:tync:627484531426983956> <:tync:627484531426983956>
