@@ -81,3 +81,4 @@ Command(shop(), brief='Displays your actual shop offer')
 Command(sendcoins(), brief='Enables to send someone coins')
 Command(subscription(), brief='Displays time to expire of your subscription')
 # this is just a comment
+# another comment
