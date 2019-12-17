@@ -1,0 +1,7 @@
+2019-12-17 20:21:31,900:DEBUG:discord.client: on_ready has successfully been registered as an event
+2019-12-17 20:21:31,901:DEBUG:discord.client: on_message has successfully been registered as an event
+2019-12-17 20:21:31,901:DEBUG:discord.client: on_member_join has successfully been registered as an event
+2019-12-17 20:21:31,901:INFO:discord.client: logging in using static token
+2019-12-17 20:21:32,608:DEBUG:discord.http: GET https://discordapp.com/api/v7/users/@me with None has returned 401
+2019-12-17 20:21:32,609:INFO:discord.client: Cleaning up tasks.
+2019-12-17 20:21:32,609:INFO:discord.client: Closing the event loop.
