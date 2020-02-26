@@ -1,2 +1,2 @@
 # CoinBot
-Bot for payments on discord servers
+Bot for managing discord shop on discord server
